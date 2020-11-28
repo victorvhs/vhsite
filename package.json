@@ -1,0 +1,25 @@
+{
+  "name": "vhsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node node_modules/.bin/next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvhs/vhsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvhs/vhsite/issues"
+  },
+  "homepage": "https://github.com/victorvhs/vhsite#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
