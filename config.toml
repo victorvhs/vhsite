@@ -2,7 +2,7 @@ baseURL = "https://vhreis.net"
 languageCode = "pt-br"
 DefaultContentLanguage = "pt-br"
 title = "Vhreis Blog"
-theme = "anatole"
+theme = "tale-hugo"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -92,3 +92,4 @@ url = "mailto:vhreis@vhreis.net"
   weight = 400
   identifier = "contact"
   url = "/contact/"
+
