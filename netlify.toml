@@ -4,7 +4,7 @@
 
 [build]
   command = "hugo"
-  publish = "dist"
+  publish = "public"
 
 [context.deploy-preview]
   command = "hugo build"
